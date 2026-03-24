@@ -1,6 +1,6 @@
 // src/main/java/com/example/deploylab/entity/Item.java
 
-package com.example.deploylab;
+package com.example.deploylab.entity;
 
 import jakarta.persistence.*;
 
